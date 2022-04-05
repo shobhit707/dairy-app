@@ -5,7 +5,7 @@ To run the application:
 `npm run start`
 
 Alternatively, use this preview link:
-[Diary App](https://diary-app-vildar.herokuapp.com/)
+[Diary App](https://boisterous-starship-284cd4.netlify.app/)
 
 ## Note
 The function used to calculate the week number from the date is not highly accurate. It provides the correct solution
